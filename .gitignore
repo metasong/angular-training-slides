@@ -6,4 +6,5 @@
 training/
 .idea
 yarn.lock
+**/.vscode/metago_bookmarks.json
 *~
